@@ -1,0 +1,24 @@
+{
+    "name": "core.node.colors",
+    "version": "1.0.1",
+    "description": "adds basic colours for String.prototype",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ido-ofir/core.node.colors.git"
+    },
+    "keywords": [
+        "core",
+        "colors",
+        "colours"
+    ],
+    "author": "Ido Ofir",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ido-ofir/core.node.colors/issues"
+    },
+    "homepage": "https://github.com/ido-ofir/core.node.colors#readme"
+}
